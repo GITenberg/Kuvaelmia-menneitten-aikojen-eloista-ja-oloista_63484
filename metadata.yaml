@@ -1,0 +1,30 @@
+_repo: Kuvaelmia-menneitten-aikojen-eloista-ja-oloista_63484
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nordlund, Carl Ferdinand
+    alias: Pohjanen, K.
+    birthdate: 1820
+    deathdate: 1905
+    gutenberg_agent_id: '52473'
+    url: http://www.gutenberg.org/2009/agents/52473
+    wikipedia: https://fi.wikipedia.org/wiki/Carl_Ferdinand_Nordlund
+description: ''
+gutenberg_issued: '2020-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63484'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcc 'PH'
+- !lcsh 'Finnish fiction -- 19th century'
+- GITenberg
+tableOfContents: '"Suomen kukko" Ruotsin pääkaupungissa -- Sihteeri Karenius ja K:ni
+  -- Pappismies -- Koulukumppanini -- Frimansky -- Pahan hengen töitä -- Originait
+  P:n kaupungissa -- Hääpidot sodan suussa -- Patrik Österholm, Suomen Rinaldo Rinaldini.'
+title: Kuvaelmia menneitten aikojen eloista ja oloista
+url: http://www.gutenberg.org/ebooks/63484
